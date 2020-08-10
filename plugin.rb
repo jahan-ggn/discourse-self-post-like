@@ -4,6 +4,7 @@
 # about:
 # version: 0.1
 # authors: Jahan Gagan
+# url: https://github.com/jahan-ggn/discourse-self-post-like
 
 enabled_site_setting :discourse_self_like_post_enabled
 
